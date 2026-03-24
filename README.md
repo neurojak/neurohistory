@@ -11,3 +11,6 @@ This timeline is definitely not comprehensive and is notably biased towards rece
     for corrections and/or additions (open an issue or DM @neurojak.bsky.social), or use it to start your own 
     mix tape.
 </p>
+
+See the docs folder:
+build_timeline.py is the script that builds the HTML for source data in neuroHistory.xlsx
