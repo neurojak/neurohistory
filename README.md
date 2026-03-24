@@ -13,4 +13,4 @@ This timeline is definitely not comprehensive and is notably biased towards rece
 </p>
 
 See the docs folder:
-build_timeline.py is the script that builds the HTML for source data in neuroHistory.xlsx
+build_timeline.py is the script that builds the HTML from source data in neuroHistory.xlsx
