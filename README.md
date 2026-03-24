@@ -1,5 +1,7 @@
 # neurohistory
 
+    https://neurojak.github.io/neurohistory/ 
+    
     This timeline is definitely not comprehensive and is notably biased towards recent and mammalian studies, 
     as well as Western history. It’s also a constant work in progress (especially for work in the past decade
     or two where long term influence remains to be seen) and has some approximate dates. It’s just a timeline 
